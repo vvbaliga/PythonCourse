@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jan 26 17:11:40 2020
-
+Check Vowels in a string
 @author: vvbaliga
 """
 
@@ -12,6 +12,6 @@ def Check_Vow(string, vowels):
     print(final) 
       
 
-string = "vaibhav"
+string = "abcdefghiahkjhfkk"
 vowels = "AaeEeIiOoUu"
 Check_Vow(string, vowels)
